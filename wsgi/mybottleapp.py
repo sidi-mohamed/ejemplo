@@ -6,7 +6,7 @@ def nameindex(name='Stranger'):
  
 @route('/')
 def index():
-    return '<strong>Hola mundo</strong>'
+    return '<strong>Hola mundo 22</strong>'
 
 # This must be added in order to do correct path lookups for the views
 import os
